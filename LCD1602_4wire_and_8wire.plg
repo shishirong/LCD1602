@@ -1,0 +1,49 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Shirong\Desktop\My LCD1602_4wire OK - ¸±±¾\LCD1602_4wire_and_8wire.uvproj
+Project File Date:  03/29/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+compiling LCD1602.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY3INT?LCD1602
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY2UINT?LCD1602
+Program Size: data=34.0 xdata=0 code=1089
+creating hex file from ".\output\LCD1602_4wire_and_8wire"...
+".\output\LCD1602_4wire_and_8wire" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+compiling LCD1602.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY3INT?LCD1602
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY2UINT?LCD1602
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_CURSORSET?LCD1602
+Program Size: data=34.0 xdata=0 code=1064
+creating hex file from ".\output\LCD1602_4wire_and_8wire"...
+".\output\LCD1602_4wire_and_8wire" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+compiling LCD1602.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY3INT?LCD1602
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY2UINT?LCD1602
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_CURSORSET?LCD1602
+Program Size: data=34.0 xdata=0 code=1064
+creating hex file from ".\output\LCD1602_4wire_and_8wire"...
+".\output\LCD1602_4wire_and_8wire" - 0 Error(s), 3 Warning(s).

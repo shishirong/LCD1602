@@ -1,0 +1,5 @@
+".\output\STARTUP.obj",
+".\output\main.obj",
+".\output\LCD1602.obj" 
+TO ".\output\LCD1602_4wire_and_8wire" 
+PRINT(".\LCD1602_4wire_and_8wire.m51")
